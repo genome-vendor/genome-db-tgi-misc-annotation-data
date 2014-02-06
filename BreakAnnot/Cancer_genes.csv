@@ -558,12 +558,11 @@ MAP2K4
 DNMT3A
 U2AF1
 EZH2
-#Stephens_Nature2009
-NTRK1	#Stephens_Nature2009
-NTRK3	#Stephens_Nature2009
-TFE3	#Stephens_Nature2009
-ALK	#Stephens_Nature2009
-ETS	#Stephens_Nature2009
+NTRK1
+NTRK3
+TFE3
+ALK
+ETS
 ETV6
 ITPR2
 PAX3
